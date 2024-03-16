@@ -31,3 +31,11 @@ Advantages: The primary advantage of SAR is its ability to provide high-resoluti
 Limitations: SAR data can be complex to analyze and interpret, often requiring specialized software and expertise. The images are also subject to various distortions and require complex processing to transform the raw data into usable imagery.
 
 In summary, SAR technology is a powerful tool for earth observation, offering detailed and reliable data under conditions where other sensors might fail. Its versatility makes it essential across various fields, from environmental monitoring to national security.
+
+
+
+SAR Data are available at
+* [http://airsar.jpl.nasa.gov/data/](http://airsar.jpl.nasa.gov/data/)
+* [http://uavsar.jpl.nasa.gov/cgi-bin/data.pl](http://uavsar.jpl.nasa.gov/cgi-bin/data.pl)
+* [https://lta.cr.usgs.gov/SIRC](https://lta.cr.usgs.gov/SIRC)
+
