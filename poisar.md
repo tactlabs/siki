@@ -34,3 +34,7 @@ PolSAR data, with its comprehensive and detailed insights, is a powerful tool in
 
 
 
+## Ref :
+
+  * [Efficiently utilizing complex-valued PolSAR image data via a multi-task deep learning framework](https://arxiv.org/pdf/1903.09917v1.pdf)
+  * 
